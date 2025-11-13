@@ -1,0 +1,11 @@
+file_count,operation,time_microseconds
+10,add,2840
+10,commit,204
+50,add,13764
+50,commit,163
+100,add,16644
+100,commit,244
+200,add,30811
+200,commit,317
+500,add,117507
+500,commit,575
